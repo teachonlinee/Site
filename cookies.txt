@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+myu.helwan.edu.eg	TRUE	/	FALSE	1999999999	csrftoken	eFXQKFjo9AC1Le5fTifBqUJGskQCN7h7
+myu.helwan.edu.eg	TRUE	/	FALSE	1999999999	SameSite	Lax
+
